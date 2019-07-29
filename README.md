@@ -32,7 +32,7 @@ Compulsory Assignments
 				By Kruse and Tondo
 
 
-B. Basic Programming Assignments [New To Programming]
-	1. Code Comprehension Assignments
+	C. Basic Programming Assignments [New To Programming]
+		1. Code Comprehension Assignments
 			Already Coded Python Code
 			Type it yourself, understand and run it
